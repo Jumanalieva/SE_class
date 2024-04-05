@@ -1,0 +1,6 @@
+|car_id|brand_name   |model           |produced_year|engine_type|status|made_country|seller_id|
+|------|-------------|----------------|-------------|-----------|------|------------|---------|
+|1     |Porsche      |Cayenne         |2,023        |E-hybrid   |new   |Germany     |1        |
+|2     |Tesla        |S AWD           |2,022        |Electric   |new   |USA         |2        |
+|3     |Mercedes-Benz|C-Class         |2,021        |E-hybrid   |used  |Germany     |3        |
+|4     |Lincoln      |Corsair Standard|2,023        |E-hybrid   |used  |USA         |4        |
