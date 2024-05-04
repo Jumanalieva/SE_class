@@ -1,0 +1,6 @@
+|concession_id|product_name|price|category|payment_id|staff_id|
+|-------------|------------|-----|--------|----------|--------|
+|4            |cheesecake  |6.99 |dessert |4         |4       |
+|3            |sandwich    |8.99 |meal    |3         |3       |
+|2            |popcorn     |4.99 |snack   |2         |2       |
+|1            |pepsi       |3.99 |beverage|1         |1       |

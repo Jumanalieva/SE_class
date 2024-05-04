@@ -1,0 +1,6 @@
+|mechanic_id|first_name|last_name |car_id|
+|-----------|----------|----------|------|
+|1          |Kent      |Dalio     |4     |
+|2          |Jack      |Simpson   |3     |
+|3          |Jay       |Calcaterra|2     |
+|4          |Amelia    |Singh     |1     |

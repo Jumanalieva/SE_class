@@ -1,0 +1,6 @@
+#footer {
+    display: flex;
+    justify-content: space-between; /* Or space-around */
+    align-items: center;
+  }
+  

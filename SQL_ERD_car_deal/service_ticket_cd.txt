@@ -1,0 +1,6 @@
+|service_ticket_id|service_date           |issue_description                                                         |service_type          |cost |car_id|customer_id|
+|-----------------|-----------------------|--------------------------------------------------------------------------|----------------------|-----|------|-----------|
+|1                |2022-09-19 01:26:00.996|oil filter is showing signs of significant wear and is due for replacement|oil exchange          |500  |1     |1          |
+|2                |2023-07-12 14:14:00.990|windshield of a vehicle was damaged that compromised driver visibility    |windshield replacement|2,000|2     |2          |
+|3                |2024-02-29 15:01:00.990|digital panel in the car is not functioning well                          |digital panel setup   |200  |3     |3          |
+|4                |2024-11-30 11:09:02.999|oil filter is showing signs of significant wear and is due for replacement|oil exchange          |500  |4     |4          |

@@ -1,0 +1,6 @@
+|seller_id|first_name|last_name|email               |
+|---------|----------|---------|--------------------|
+|1        |Margo     |Stetson  |mstetson@gmail.com  |
+|2        |Rose      |Clark    |roseclark@gmail.com |
+|3        |Gregory   |Altman   |gregaltman@gmail.com|
+|4        |Benjamin  |Suzuki   |bensuzuki@gmail.com |

@@ -1,0 +1,6 @@
+|staff_id|first_name|last_name|concession_id|email               |
+|--------|----------|---------|-------------|--------------------|
+|1       |Angela    |Yu       |1            |angelayu@gmail.com  |
+|2       |Robert    |Weasley  |2            |rweasley@gmail.com  |
+|3       |Aisha     |Hakim    |3            |aishahakim@gmail.com|
+|4       |Leo       |Fridman  |4            |leofridman@gmail.com|

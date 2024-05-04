@@ -1,0 +1,6 @@
+|customer_id|first_name|last_name|address                             |billing_info                  |
+|-----------|----------|---------|------------------------------------|------------------------------|
+|1          |Ariana    |Swift    |129 Chestnut Dr Milwaukee , WI 53202|9021-7812-4381-0032 123 02/27 |
+|2          |Ronald    |Pierre   |12 Spring Ave Chicago, IL 60626     |2130-7854-0211-6656 807 09/25 |
+|3          |Jackson   |Kim      |55 Mountain St Avon CT 06090        |4445-3241-9009-5555  567 11/26|
+|4          |Sasha     |Martin   |155 Liberty Ave Bronx, NY 10461     |8811-6676-1234-9877 321 12/28 |
