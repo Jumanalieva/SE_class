@@ -1,2 +1,3 @@
 libflask
 __pycache__
+.env
